@@ -1,0 +1,32 @@
+Year 1990:
+
+Year 1991:
+	June: 
+
+Year 1992:
+	January: 
+		Day 1: 
+			hour: 0, temperature: 61.5
+	February: 
+		Day 1: 
+			hour: 1, temperature: 64
+		Day 2: 
+			hour: 2, temperature: 65.2
+
+Year 2000:
+	February: 
+		Day 1: 
+			hour: 0, temperature: 67.2
+			hour: 1, temperature: 68
+			hour: 2, temperature: 69.4
+		Day 2: 
+			hour: 3, temperature: 66.66
+	December: 
+		Day 14: 
+			hour: 0, temperature: -2
+		Day 15: 
+			hour: 14, temperature: -8.8
+			hour: 15, temperature: -9.2
+		Day 16: 
+			hour: 11, temperature: -9.1
+
